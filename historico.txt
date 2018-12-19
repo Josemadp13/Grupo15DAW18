@@ -1,0 +1,3 @@
+Nos dividimos la tarea equitativamente aunque después hicimos el proyecto en conjunto.
+Nati se encarga de la base de datos, Josema se encarga de la vista y la gestión del repositorio y 
+yo me encargo del controlador.
