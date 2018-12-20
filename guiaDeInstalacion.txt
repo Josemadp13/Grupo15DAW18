@@ -1,0 +1,5 @@
+Pasos para instalar la página en CdMon:
+
+-Pasamos por ftp los archivos al servidor.
+-La base de datos ha de estar creada previamente.
+-Acceder a install.php situado en la carpeta web.
