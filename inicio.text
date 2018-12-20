@@ -1,1 +1,10 @@
-En primer lugar, nos dividimos el trabajo por partes. 
+En primer lugar, nos dividimos el trabajo por partes. La division quedó asi:
+ - Alejandro: hará la parte del integrante 1.
+ - Jose Manuel:  hará la parte del integrante 2.
+ - Nati: hará la parte del integrante 3.
+ 
+ Por lo tanto, a mi me tocó la parte de la vista, y para ello tuve que hacer:
+  - Crear una cuenta de GitHub y el repositorio. Además, tuve que añadir a los demas integrantes.
+  - Descargarme el proyecto de alimentos, y manejar la carpeta web(la vista).
+  - Subir la carpeta web al repositorio.
+ 
