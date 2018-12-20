@@ -1,0 +1,4 @@
+Nos hemos dividido el trabajo en 3 partes como dice el enunciado.
+Josema se ha encargado de crear el directorio en Git y ha subido la parte Web.
+Nati se ha encargado de crear el SQL, conectar la base de datos y hacer el despliegue en CDMON.
+Alejandro se ha encargado de hacer la parte del controlador y los templates.
